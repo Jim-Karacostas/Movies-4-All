@@ -1,1 +1,1 @@
-movies-4-all.netlify.app
+https://movies-4-all.netlify.app/
