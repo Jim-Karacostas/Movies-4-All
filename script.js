@@ -233,11 +233,7 @@ function openNav(movie) {
               embed.push(`
               <iframe width=auto height="250" src="https://www.youtube.com/embed/${key}" title="${name}" class="embed hide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           
-          `);
-
-              dots.push(`
-              <span class="dot" width=auto margin=auto>${idx + 1}</span>
-            `);
+          `);    
             }
           });
 
